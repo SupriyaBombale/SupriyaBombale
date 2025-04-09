@@ -1,16 +1,18 @@
-## Hi there 👋
+Hello, I'm Supriya Bombale ! 👋
 
-<!--
-**SupriyaBombale/SupriyaBombale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🔧 Technologies & Tools
+Here are some of the technologies and tools I work with:
+
+Cloud Platforms: AWS
+Infrastructure as Code (IaC): Terraform, CloudFormation
+CI/CD: Jenkins
+Containerization: Docker, Kubernetes
+Monitoring & Logging: Datadog, CloudWatch
+Version Control: Git, GitHub
+Scripting: Bash, Python
+Databases: MySQL, PostgreSQL, MongoDB
+Operating Systems: Linux (Ubuntu, CentOS, RHEL, Amzon Linux 2)
